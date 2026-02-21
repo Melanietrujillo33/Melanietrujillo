@@ -1,2 +1,0 @@
-# Melanietrujillo
-Aplicaciones web Trabajos 
